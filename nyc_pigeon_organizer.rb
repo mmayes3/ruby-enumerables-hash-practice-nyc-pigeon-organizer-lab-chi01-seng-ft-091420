@@ -4,6 +4,7 @@ def nyc_pigeon_organizer(data)
     #binding.pry
     value.each do |next_key, next_value|
       binding.pry
+    end
     
   end
 end

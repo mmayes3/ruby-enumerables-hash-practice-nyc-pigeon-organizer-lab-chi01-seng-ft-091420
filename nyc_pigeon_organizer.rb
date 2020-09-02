@@ -5,8 +5,8 @@ def nyc_pigeon_organizer(data)
     value.each do |next_key, next_value|
       next_value.each do |name|
         if name not in fin_array
-        binding.pry
           fin_array[name] = {}
+       binding.pry 
         end
           
       end

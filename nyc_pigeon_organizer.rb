@@ -6,8 +6,8 @@ def nyc_pigeon_organizer(data)
       next_value.each do |name|
         if name !fin_array[name]
           fin_array[name] = {}
+          binding.pry
         end
-      binding.pry
       end
     end
     

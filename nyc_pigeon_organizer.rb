@@ -13,7 +13,6 @@ def nyc_pigeon_organizer(data)
       end
     end
   end
-  return fin_array
 end
 
 puts nyc_pigeon_organizer(    pigeon_data = {

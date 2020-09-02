@@ -7,8 +7,7 @@ def nyc_pigeon_organizer(data)
         if name not in fin_array
           fin_array[name] = {}
         end
-          binding.pry 
-          
+        binding.pry 
       end
     end
     

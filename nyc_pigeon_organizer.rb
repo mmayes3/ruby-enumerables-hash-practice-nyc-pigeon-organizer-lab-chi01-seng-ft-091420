@@ -15,3 +15,5 @@ def nyc_pigeon_organizer(data)
   end
   return fin_array
 end
+
+puts nyc_pigeon_organizer()

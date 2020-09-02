@@ -15,7 +15,7 @@ def nyc_pigeon_organizer(data)
   end
 end
 
-puts nyc_pigeon_organizer(    pigeon_data = {
+puts nyc_pigeon_organizer(pigeon_data = {
       :color => {
         :purple => ["Theo", "Peter Jr.", "Lucky"],
         :grey => ["Theo", "Peter Jr.", "Ms. K"],
